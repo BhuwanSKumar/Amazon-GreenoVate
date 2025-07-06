@@ -41,20 +41,9 @@ const NavBarItem = [
     },
     {
         id:11,
-        MenuItem: 'Amazon Pay'
-    },
-    {
-        id:12,
-        MenuItem: 'Fashion'
-    },
-    {
-        id:13,
-        MenuItem: 'Computers'
-    },
-    {
-        id:14,
         MenuItem: 'GreenoVate'
     },
+    
 ]
 
 export default NavBarItem;
